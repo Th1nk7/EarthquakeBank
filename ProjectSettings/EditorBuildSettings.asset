@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/scam.unity
+    guid: 845b34b304ec06d4b8b180f4c4445278
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 784af91aef71f8844b8748d6a6ee3497,
       type: 2}
